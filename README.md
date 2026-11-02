@@ -33,6 +33,8 @@
 📦 poster-to-calendar
  ┣ 📂 data/                 # 포스터 이미지 및 데이터셋 저장 폴더
  ┣ 📂 yolov5/               # YOLOv5 서브모듈 및 소스코드
- ┣ 📂 runs/                 # YOLOv5 탐지 및 크롭 결과 저장 폴더
+ ┣ 📂 yruns/                # YOLOv5 탐지 및 크롭 결과 저장 폴더
+ ┣ 📂 ocr/                  # easyocr 서브모듈 및 소스코드
+ ┣ 📂 oruns/                # ocr 결과 저장 폴더
  ┣ 📜 app.py                # Flask 웹 서버 및 캘린더 연동 메인 코드
  ┗ 📜 README.md             # 프로젝트 설명서
